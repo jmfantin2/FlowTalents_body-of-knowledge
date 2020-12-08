@@ -9,7 +9,7 @@ coisas que a galera já passou
 ## Setup
 
 ### Git 
-[VID: Criando e clonando repositório](https://google.com/)
+[FTBITES: Criação e clonagem de repositório](https://youtu.be/M-dPjYldUbI/)
 
 ## Backend
 
