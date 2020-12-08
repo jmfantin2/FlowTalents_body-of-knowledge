@@ -1,10 +1,17 @@
 # FlowTalents Body of Knowledge
 coisas que a galera já passou
 
+- [Gestão de Projetos](#gestão-de-projetos)
+  * [Theory of Constraints](#theory-of-constraints)
 - [Setup](#setup)
   * [Git](#git)
 - [Backend](#backend)
   * [Java](#java)
+
+## Gestão de Projetos
+
+### Theory of Constraints 
+[Demonstração das três garrafas](https://www.youtube.com/watch?v=-Bcs_iktJXU)
 
 ## Setup
 
