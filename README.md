@@ -5,6 +5,7 @@ coisas que a galera já passou
   * [Theory of Constraints](#theory-of-constraints)
 - [Setup](#setup)
   * [Git](#git)
+  * [VSCode](#visual-studio-code)
 - [Backend](#backend)
   * [Java](#java)
 
