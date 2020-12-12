@@ -11,4 +11,14 @@ public class Utilities {
   public String geraNome() {
     return nomes.get(rand.nextInt(15));
   }
+
+  public Compra geraCompra(ArrayList<Produto> produtos) {
+    Compra compra = new Compra();
+    for (Produto el : produtos) {
+      if (rand.nextInt(2) == 1) {
+        compra.produtos.add(el);
+      }
+    }
+    return compra;
+  }
 }

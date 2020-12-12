@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class App {
@@ -26,8 +25,14 @@ public class App {
                 prat.adicionarProduto(prod);
 
             } else if (opt.equals("S")) {
-                Cliente cli = new Cliente(utils.geraNome());
-                System.out.println("\n\n" + cli.getNome());
+
+                Cliente cli = new Cliente(utils.geraNome(), utils.geraCompra(prat.produtos));
+
+                System.out.println("\n\n" + cli.getNome() + " comprou: ");
+
+                cli.getCompra().imprimeItens();
+
+                System.out.println("por " + cli.getCompra().valorGasto() + "\n");
             }
         }
         in.close();
