@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
 
+        Utilities utils = new Utilities();
         Scanner in = new Scanner(System.in);
 
         Prateleira prat = new Prateleira();
@@ -25,7 +26,8 @@ public class App {
                 prat.adicionarProduto(prod);
 
             } else if (opt.equals("S")) {
-                System.out.println("Vc escolheu S meus prbns");
+                Cliente cli = new Cliente(utils.geraNome());
+                System.out.println("\n\n" + cli.getNome());
             }
         }
         in.close();
