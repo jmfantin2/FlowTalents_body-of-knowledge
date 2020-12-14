@@ -15,6 +15,13 @@ public class Prateleira {
       System.out.println(el.getNome() + ": " + el.getPreco());
     }
     System.out.println();
+
+
+    /* metodo que aceita um objeto do tipo Produto como parametro,
+    adiciona o objeto no ArrayList produtos,
+    (for)para cada elemento do tipo Produto na variavel produtos
+    printe no console o nome do elemento + ":" + seu preço
+    */
   }
 
 }
