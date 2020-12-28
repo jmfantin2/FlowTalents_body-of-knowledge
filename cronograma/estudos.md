@@ -1,4 +1,4 @@
-_Se não der certo da primeira vez, chame de versão 1.0."_  – Sócrates
+_"Se não der certo da primeira vez, chame de versão 1.0."_  – Sócrates
 
 ---
 
