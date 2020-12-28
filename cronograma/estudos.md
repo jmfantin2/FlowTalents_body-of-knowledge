@@ -8,7 +8,7 @@ _Se não der certo da primeira vez, chame de versão 1.0."_  – Sócrates
 
 Leitura: [Reúso de software - conceitos extraidos do Sommerville](https://medium.com/@mikiasoliveira/re%C3%BAso-de-software-8406766d9eb8)
 
-> Publicação bem chatinha, mas que vai preparar um pouco mais a cabeça de vocês pra como as coisas são construídas hoje, e sob que necessidades. O texto trata de uma das partes mais importantes do "Engenharia de Software", do Sommerville, então vale a pena ler mesmo que levante mais perguntas do que respostas.
+> Publicação bem chatinha, mas que introduz bem como as coisas são construídas hoje, e sob que necessidades. O texto trata de uma das partes mais importantes do "Engenharia de Software", do Sommerville, então vale a pena ler mesmo que levante mais perguntas do que respostas.
 
 Vídeo: [Não tente aprender um framework antes de ver este vídeo](https://www.youtube.com/watch?v=VMwWUUYmyow)
 
