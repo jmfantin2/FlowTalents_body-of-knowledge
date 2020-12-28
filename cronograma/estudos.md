@@ -10,7 +10,7 @@ Leitura: [Reúso de software - conceitos extraidos do Sommerville](https://mediu
 
 > Publicação bem chatinha, mas que vai preparar um pouco mais a cabeça de vocês pra como as coisas são construídas hoje, e sob que necessidades. O texto trata de uma das partes mais importantes do "Engenharia de Software", do Sommerville, então vale a pena ler mesmo que levante mais perguntas do que respostas.
 
-Vídeo: [Não tente aprender um framework antes de ver este vídeo.](https://www.youtube.com/watch?v=VMwWUUYmyow)
+Vídeo: [Não tente aprender um framework antes de ver este vídeo](https://www.youtube.com/watch?v=VMwWUUYmyow)
 
 > Explicação boa sobre a definição de frameworks/bibliotecas e a utilidade delas no dia-a-dia. Discordo um pouco do que ele fala no final - acredito que o quanto se deve entender da linguagem-base varia de caso para caso. (React tem uma curva de aprendizado bem mais suave que Angular, por exemplo)
 
@@ -24,7 +24,7 @@ Vídeo: [Padrão MVC (Model - View - Controller)](https://www.youtube.com/watch?
 
 Vídeo: [O que é Spring Framework?](https://www.youtube.com/watch?v=5XPojnx9bb8)
 
-> Aqui tá meio louco até pra mim, então fiquem calmos (reitero que será um prazer estudar Spring com vocês). A mensagem aqui é: "tornem-se conscientes da complexidade envolvida em colocar os dados em uma aplicação de verdade". 
+> Aqui tá meio louco até pra mim, então fiquem calmos (reitero que será um prazer estudar Spring com vocês). A mensagem aqui é: "tornem-se conscientes dos requisitos envolvidos em colocar os dados em uma aplicação de verdade". 
 
 Vídeo: [REACT JS EM 5 MINUTOS](https://www.youtube.com/watch?v=W8EwQlAGVDs)
 
