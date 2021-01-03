@@ -2,7 +2,7 @@
 
 `Leia tudo antes de fazer qualquer coisa`
 
-Um dono de um pequeno negócio de locação de automóveis, em conjunto com a ViaFlow, quer **realizar uma POC** para validar o quanto um sistema simples de gestão operacional pode auxiliá-lo com o ¹**cadastro de veículos** e ²**locações** dos mesmos. Hoje a operação é manual, o que gera certa dor de cabeça e problemas eventuais.
+O dono de um pequeno negócio de locação de automóveis, em conjunto com a ViaFlow, quer **realizar uma POC** para validar o quanto um sistema simples de gestão operacional pode auxiliá-lo com o ¹**cadastro de veículos** e ²**locações** dos mesmos. Hoje a operação é manual, o que gera certa dor de cabeça e problemas eventuais.
 
 O cliente possui uma frota de veículos de [categorias A a D](https://autopapo.uol.com.br/noticia/categorias-da-cnh-tipos-carteira-motorista/) e quer experimentar um sistema simples, sem necessidade de persistência de dados após execução, onde ele possa:
 
