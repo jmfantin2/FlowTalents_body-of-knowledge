@@ -8,7 +8,7 @@ public class ControleAdmin {
     Scanner in = new Scanner(System.in);
 
     Utilities utils = new Utilities();
-    Prateleira prat = new Prateleira();
+    Estoque stock = new Estoque();
 
     String opt = "";
     while (!opt.equals("X")) {
@@ -25,11 +25,11 @@ public class ControleAdmin {
         String preco = in.next();
 
         Produto prod = new Produto(nome, Double.valueOf(preco));
-        prat.adicionarProduto(prod);
+        stock.adicionarProduto(prod);
 
       } else if (opt.equals("S")) {
 
-        Cliente cli = new Cliente(utils.geraNome(), utils.geraCompra(prat.produtos));
+        Cliente cli = new Cliente(utils.geraNome(), utils.geraCompra(stock.produtos));
 
         System.out.println("\n\n" + cli.getNome() + " comprou: ");
         cli.getCompra().imprimeItens();
