@@ -5,3 +5,8 @@
 Sabadão essentials #1 [parte 1](https://youtu.be/nLxzwDQxxE4) - [parte 2](https://youtu.be/zsPNgmfjQpo) - [parte 3](https://youtu.be/92H2GPAAODU)
 
 **@g-asantos**: [Mapa conceitual dos cursos de Java](https://whimsical.com/java-orientacao-a-objetos-6RpMWXGRXQErACasQ2rJ3a)
+
+
+[Apostila Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+
+[Apostila Java para desenvolvimento web](https://www.caelum.com.br/apostila-java-web/)
