@@ -8,6 +8,8 @@
 
 [Apostila Java para desenvolvimento web](https://www.caelum.com.br/apostila-java-web/)
 
+[Tutorial de Java Persistence API](https://blog.algaworks.com/tutorial-jpa/)
+
 [Programando em Java com VSCode](https://medium.com/@vinicius.b.martinez/microsoft-vscode-para-desenvolvedores-java-f1e9f69e6fa6)
 
 #### @jmfantin2
