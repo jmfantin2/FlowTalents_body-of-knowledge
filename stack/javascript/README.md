@@ -6,4 +6,6 @@
 
 [Mercadin-NodeJS](https://github.com/g-asantos/mercadin-nodejs)
 
+#### @victorstevanin
+
 [Curso JavaScript Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
