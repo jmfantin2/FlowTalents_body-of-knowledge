@@ -9,4 +9,4 @@
 | (Backend) Formação Spring | https://cursos.alura.com.br/formacao-spring-framework | **29 jan** |
 | (Frontend) Formação React | https://cursos.alura.com.br/formacao-react-js | **29 jan** |
 
-> como há 20 horas a mais na formação Spring, o tópico 4 (Spring Boot) não é obrigatório para a data limite
+> o tópico 4 (Spring Boot) deve ser priorizado sobre o Spring MVC
