@@ -21,6 +21,10 @@
 
 [Java e Clean Architecture: Descomplicando arquitetura de software](https://cursos.alura.com.br/course/java-clean-architecture)
 
+> JM, queria ver mais Node.
+
+[NodeJS: Crie uma API REST padronizada e escalável](https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel)
+
 ### Frontend+
 
 > Redux é o assunto mais difícil que terá passado por vocês, então contem comigo e com o Willian para sanarmos dúvidas.
