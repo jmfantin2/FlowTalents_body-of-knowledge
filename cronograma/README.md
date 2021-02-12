@@ -44,4 +44,4 @@ Ah, e caso vocês encontrem novas fontes que possam ajudar, mandem pro grupo!
 
 [Rocketseat: Organizando o Redux com Duck Pattern e Redux Sauce](https://www.youtube.com/watch?v=q-If9n-tUyA) 
 
-[Entenda REDUX em UM VÍDEO! Store, Action, Action Creator, Reducers... Série React JS] https://www.youtube.com/watch?v=J0g1cv_03XQ
+[Entenda REDUX em UM VÍDEO! Store, Action, Action Creator, Reducers... Série React JS](https://www.youtube.com/watch?v=J0g1cv_03XQ)
