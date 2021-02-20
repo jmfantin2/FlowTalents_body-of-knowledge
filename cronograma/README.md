@@ -45,3 +45,7 @@ Ah, e caso vocês encontrem novas fontes que possam ajudar, mandem pro grupo!
 [Rocketseat: Organizando o Redux com Duck Pattern e Redux Sauce](https://www.youtube.com/watch?v=q-If9n-tUyA) 
 
 [Entenda REDUX em UM VÍDEO! Store, Action, Action Creator, Reducers... Série React JS](https://www.youtube.com/watch?v=J0g1cv_03XQ)
+
+[Sabadão REDUX & CONTEXT](https://youtu.be/VLZPcvsdRCg)
+
+[Como usar React Context (com Hooks)](https://www.youtube.com/watch?v=FsCBw9X9U84)
